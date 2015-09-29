@@ -1,0 +1,10 @@
+@import "partials/app";
+
+body {
+	background: #ccc;
+}
+
+h1 {
+	color: $blue;
+	margin: $margin;
+}
